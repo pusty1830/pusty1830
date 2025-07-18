@@ -1,4 +1,4 @@
-![MasterHead](https://tse3.mm.bing.net/th/id/OIP.PM8BWrYp7mQuWLeAREdT-AHaEG?rs=1&pid=ImgDetMain&o=7&rm=3)
+![MasterHead](https://tse3.mm.bing.net/th/id/OIP.iNDYVHDnNQo9MCw0hGq7gwHaEK?w=1600&h=900&rs=1&pid=ImgDetMain&o=7&rm=3)
 <h1 align="center">Hi 👋, I'm Amitav Pusty</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
