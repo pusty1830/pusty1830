@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/8901672.jpg)
+<img src="https://wallpaperaccess.com/full/8901672.jpg" alt="MasterHead" style="width:100%; height:200px; object-fit:cover;" />
 <h1 align="center">Hi 👋, I'm Amitav Pusty</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"/>
