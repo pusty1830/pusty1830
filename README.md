@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amitav.prusty089@gmail.com**
 
-- 📄 Know about my experiences [https://s3.eu-north-1.amazonaws.com/amitavpusty.shop.portfolio/AMITAV++RESUME-1.pdf)
+- 📄 Know about my experiences :-https://s3.eu-north-1.amazonaws.com/amitavpusty.shop.portfolio/AMITAV++RESUME-1.pdf
 
 - ⚡ Fun fact **Me**
 
